@@ -1,5 +1,3 @@
-                            
-                                                         ^
 an attempt at solving the [https://github.com/commaai/calib_challenge](comma ai calibration challenge)
 
 the problem is that when trying to detect the motion of travel from a dashcam the dashcam could not be installed perfectly
