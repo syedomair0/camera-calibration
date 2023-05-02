@@ -17,5 +17,4 @@ progress so far
 
 
 
-![car movement gif](./motion_direction.mov)
-
+![car movement gif](./motion_direction.gif)
