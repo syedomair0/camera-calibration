@@ -1,4 +1,4 @@
-an attempt at solving the [comma ai calibration challenge](https://github.com/syedomair0/camera-calibration/tree/main)
+attempt at solving the [comma ai calibration challenge](https://github.com/commaai/calib_challenge)
 
 the problem is that when trying to detect the motion of travel from a dashcam the dashcam could not be installed perfectly
 and may be at an angle. the goal of this project is to see how we can detect the angle at which the camera is at and calibrate it
